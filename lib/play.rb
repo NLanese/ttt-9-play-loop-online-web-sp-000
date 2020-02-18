@@ -43,4 +43,3 @@ def play(board)
   end
 end
 
-# Define your play method below
