@@ -42,4 +42,3 @@ def play(board)
     counter++
   end
 end
-
